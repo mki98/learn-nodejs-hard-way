@@ -1,5 +1,9 @@
 # Learn Node.js by building a backend framework
 
+<p align="center">
+  <img src="./assets/imgs/cover.jpg" alt="Learn nodejs the hard way" width="500">
+</p>
+
 You can access the current version of the book in the [chapters directory](/chapters) or in PDF format  (both Light and Dark modes are available) by [clicking here](https://github.com/ishtms/learn-nodejs-hard-way/releases). Note that this version includes the current release of the content, and is not the final version.
 
 > This book is still in a very early stage. It contains an insignificant portion of the total content that the book is supposed to cover.
@@ -185,5 +189,7 @@ The repo for our backend framework- [Velocy](https://github.com/ishtms/velocy)
         - [Caching improvements](/chapters/ch06.1-http-verbs.md#caching-improvements)
         - [Range Requests](/chapters/ch06.1-http-verbs.md#range-requests)
         - [New Methods: `PUT`, `DELETE`, `CONNECT`, `OPTIONS`, `TRACE`](/chapters/ch06.1-http-verbs.md#new-methods-put-delete-connect-options-trace)
+- [User Agents](/chapters/ch06.2-user-agents.md)
+    - [`User-Agent` can be weird](/chapters/ch06.2-user-agents.md#user-agent-can-be-weird)
 
 ![](https://uddrapi.com/api/img?page=readme)
